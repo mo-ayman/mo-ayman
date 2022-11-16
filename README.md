@@ -1,4 +1,5 @@
-### Hi there 👋
+## Undergraduate Computer and Systems Engineering at Alexandria University.
+##### Innovative and enthusiastic computer science educator anticipating graduation in 2024 with a passion for problem solving.
 
 <!--
 **mo-ayman/mo-ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
