@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Computer Engineer</h1>
 
 <!--
 **mo-ayman/mo-ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
